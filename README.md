@@ -1,8 +1,8 @@
 # Mobile-Programming-TugasBesar
 
 Kelompok 14
-## Ndang Selvia Ningrum - 105220030 
-## Gracea Desmiana - 105220018
+#### Ndang Selvia Ningrum - 105220030 
+#### Gracea Desmiana - 105220018
 
 ## Nama Aplikasi : MyQuran
 ## Demo Aplikasi : https://youtu.be/zm3jol_7DA4 
